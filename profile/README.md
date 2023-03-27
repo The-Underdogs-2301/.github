@@ -1,4 +1,6 @@
-# .github
+# The Underdogs contract
+
+### Jieun Kim, Miguel Fernando, Matthew Pelnik
 
 Establishing Norms
 
